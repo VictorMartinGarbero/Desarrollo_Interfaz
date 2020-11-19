@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Sat Nov 14 16:08:02 CET 2020:
+ Iniciando instancia a816c00e-0175-c74c-86d4-000003cd7330 de Derby, versión The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): 
+en el directorio de base de datos /Users/pin/Desktop/DAM/2DAM_Victor_Martin/Desarrollo_de_Interfaces/Tema2/DI_Tema2_VictorMartin/AppAgenda/BDAgenda con el cargador de clases sun.misc.Launcher$AppClassLoader@66d3c617
+Cargado desde file:/Users/pin/Desktop/DAM/2DAM_Victor_Martin/Desarrollo_de_Interfaces/Herramientas/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_111-b14
+user.dir=/Users/pin/Desktop/DAM/2DAM_Victor_Martin/Desarrollo_de_Interfaces/Tema2/DI_Tema2_VictorMartin/AppAgenda
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.10.5
+derby.system.home=null
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Nov 14 16:08:22 CET 2020:
+Cerrando la instancia a816c00e-0175-c74c-86d4-000003cd7330 en el directorio de base de datos /Users/pin/Desktop/DAM/2DAM_Victor_Martin/Desarrollo_de_Interfaces/Tema2/DI_Tema2_VictorMartin/AppAgenda/BDAgenda con cargador de clases sun.misc.Launcher$AppClassLoader@66d3c617
